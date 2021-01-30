@@ -1,0 +1,23 @@
+﻿<Ui xmlns="http://www.blizzard.com/wow/ui/">
+	<Frame name="TestFrame" parent="UIParent" inherits="BackdropTemplate">
+    <Size x="300" y="300"/>
+	
+     <KeyValues>
+        <KeyValue key="backdropInfo" value ="BACKDROP_TOOLTIP_8_8_1111" type="global"/>
+        <KeyValue key="backdropColor" value = "RARE_BLUE_COLOR" type="global"/>
+		
+		<KeyValue key="backdropColorAlpha" value ="0.1" type="number"/>
+		<KeyValue key="backdropBorderColor" value ="RARE_BLUE_COLOR" type="global"/>
+        <KeyValue key="backdropBorderColorAlpha" value ="1" type="number"/>
+    </KeyValues>   
+
+    <Anchors>
+        <Anchor point="CENTER"/>
+    </Anchors>
+    <Scripts>
+        <OnLoad inherit="prepend">
+            print("Loaded!");
+        </OnLoad>
+    </Scripts>
+	</Frame>
+</Ui>

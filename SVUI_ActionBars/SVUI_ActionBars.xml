@@ -1,0 +1,10 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+	<Script file="Loader.lua"/>
+
+	<Include file="libs\_load.xml"/>
+	<Script file="SVUI_ActionBars.lua"/>
+	<!--<Script file="components\keybind.lua"/>-->
+	<Script file="components\micro.lua"/>
+	<Script file="components\zone.lua"/>
+	<Script file="components\totem.lua"/>
+</Ui>

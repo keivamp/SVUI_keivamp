@@ -1,0 +1,24 @@
+tag 8d555cb806ec440fd0c2cf93999d017b03b921ef 0.37
+Author:	Hendrik Leppkes <h.leppkes@gmail.com>
+Date:	Thu Nov 19 12:28:03 2020 +0100
+
+Tag as 0.37
+
+commit 5321d3383adfeb6dcfa5b29e3dec45356fc8b1dc
+Author: Hendrik Leppkes <h.leppkes@gmail.com>
+Date:   Thu Nov 19 12:24:32 2020 +0100
+
+    Update TOC for 9.0.2
+
+commit 3afecd672688be4197f1393fe7dacf2e3de11ce5
+Author: Hendrik Leppkes <h.leppkes@gmail.com>
+Date:   Sat Oct 17 12:25:50 2020 +0200
+
+    Add project version to TOC to simplify identifying the package version
+
+commit 2b4206768148203b90837cdfb9a5a8c0ca1c998f
+Author: Hendrik Leppkes <h.leppkes@gmail.com>
+Date:   Tue Oct 13 14:34:07 2020 +0200
+
+    Pass the button type to Masque
+

@@ -1,0 +1,8 @@
+keivamp:
+	Druid,Shaman,Priest mana bar fix
+	Druid combo point fix
+	rogue combo point fix
+	Action Bar fix
+	Minimap fix
+	Aura Bar fixed
+	Chest looting fixed
